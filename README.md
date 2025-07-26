@@ -7,7 +7,7 @@
 - IoT & Edge ML Technologies  
 
 ## 🌱 Currently Learning
-- Advanced Python Programming  
+- Basic Python Programming  
 - Data Analytics & Visualization  
 - AI Applications in Healthcare  
 - MongoDB  
