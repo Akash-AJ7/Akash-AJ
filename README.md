@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akash (@Akash-777AJ)
+# 👋 Hi, I’m Akash (Akash-AJ)
 
 ## 👀 Interests
 - Artificial Intelligence & Data Science  
